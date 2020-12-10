@@ -1,4 +1,4 @@
-# CustomerChurnInBanking
+# Customer Churn in Banking Industry
 ## Data Science project - Customer Churn in Banking industry  
 Author: Sathish Manthani  
 Summer 2019  
